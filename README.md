@@ -9,6 +9,9 @@ Please report any concerns at https://github.com/siryanni/Gambling-Game/issues
 
 If you wish to comile the source code, download the follwing librarys: 
 **1.** SDL3_image-3.2.4
+
 **2.** SDL3_ttf-3.2.2
+
 **3.** SDL3-devel-3.2.10-VC
+
 and put them in C:\librarys\
