@@ -1,3 +1,4 @@
+//general header include, note to self, later remove functions not used in stable release
 #include <vector>
 #include <string>
 #include <random>
@@ -27,8 +28,6 @@
 #include <stdio.h>
 #include <math.h>
 #define NANOSVG_IMPLEMENTATION
-#include "nanosvg.h"
-#include "nanosvgrast.h"
 using namespace std;
 
 
